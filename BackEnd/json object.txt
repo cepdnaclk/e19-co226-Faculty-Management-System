@@ -1,0 +1,11 @@
+student object
+
+{
+    "enrollmentNo":"362",
+    "address":"Madalagama",
+    "advisor":"upul",
+    "firstName":"eshan",
+    "lastName":"Wimalasiri",
+    "sclass":"13A",
+    "sex":"M"
+}

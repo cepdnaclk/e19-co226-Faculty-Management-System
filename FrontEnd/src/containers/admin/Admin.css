@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 20vh;
+  }
+  
+  .box {
+    border: 5px solid blue;
+    border-radius: 25px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .box:hover {
+    background-color: #b3c6ff; /* Change to the color you want on hover */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+  
+  .bottom-image {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
