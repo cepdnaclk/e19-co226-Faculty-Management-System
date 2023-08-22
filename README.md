@@ -1,7 +1,5 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Powered by React & Spring Boot, the Faculty Management System streamlines admin tasks for student, lecturer & project handling. A user-friendly UI adds ease to adding individuals/projects. Course & department info accessibility fosters transparency. Robust tech, intuitive design optimize management & communication.
 ___
 
-## Please refer the instructions in below URL:
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
