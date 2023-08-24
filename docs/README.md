@@ -20,9 +20,9 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/19/492, Somawansha M.V.N.L., [email](mailto:e19492@eng.pdn.ac.lk)
+-  E/19/452, Wimalasiri P.M.A.C., [email](mailto:e19452@eng.ac.lk)
+-  E/19/278, Perera A.P.T.T., [email](mailto:e19452@eng.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -33,7 +33,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+The Faculty Management System is a comprehensive platform designed to streamline administrative tasks within an educational institution. Leveraging React in the frontend and Spring Boot in the backend, the system empowers administrators to efficiently manage student, lecturer, and project information. With an intuitive UI catering to both administrators and students, the system enables seamless addition of individuals and projects. Users can access and view detailed course and department information, fostering enhanced transparency and collaboration within the faculty. This system amalgamates robust technology with user-friendly design, optimizing faculty management processes and enhancing overall communication and accessibility.
 
 ## Other Sub Topics
 
