@@ -3,6 +3,8 @@ import './Student.css';
 import { Container, Paper, Button, Select, MenuItem, FormControl, InputLabel } from '@mui/material';
 import Clock from "../../components/Clock.jsx"
 import { useState, useEffect } from 'react';
+import facultyImage from '../../assets/avatars/bg.jpg';
+
 
 const Home = () => {
   const paperStyle = { padding: '50px 20px', width: '500', margin: '20px auto' };
@@ -63,7 +65,7 @@ const Home = () => {
                 
                 <div className="bottom-image">
                 <img
-                src="src/assets/avatars/bg.jpg" 
+                src={facultyImage} 
                 alt="Bottom Image"
                 width="100%" 
                 />

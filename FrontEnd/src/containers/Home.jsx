@@ -13,6 +13,7 @@ import {
 } from '@mui/material';
 import { Link, useNavigate } from 'react-router-dom';
 
+import loginImage from '../assets/avatars/logo.jpg';
 
 const Home = () => {
     const containerStyle = {
@@ -103,7 +104,7 @@ const Home = () => {
                 </Box>
             </Box>
             <div>
-            <img src="src/assets/avatars/logo.jpg" alt="Student Management System" width="300" height="300" style={{ marginTop: '0px' }} />
+            <img src={loginImage} alt="Student Management System" width="300" height="300" style={{ marginTop: '0px' }} />
 
             </div>
             
