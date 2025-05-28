@@ -2,7 +2,7 @@
 layout: home
 permalink: index.html
 
-# Please update this with your repository name and title
+# Multi-Modal Data Fusion for Trading Market Price Forecasting
 repository-name: eYY-XXX-project-template
 title:
 ---
