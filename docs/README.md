@@ -2,7 +2,7 @@
 layout: home
 permalink: index.html
 
-# Multi-Modal Data Fusion for Trading Market Price Forecasting
+# 
 repository-name: eYY-XXX-project-template
 title:
 ---
